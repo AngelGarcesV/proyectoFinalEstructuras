@@ -1,0 +1,3 @@
+/home/angel/Documents/Universidad/PracticasClion/proyectofinal/cmake-build-debug/CMakeFiles/proyectofinal.dir
+/home/angel/Documents/Universidad/PracticasClion/proyectofinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/angel/Documents/Universidad/PracticasClion/proyectofinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
